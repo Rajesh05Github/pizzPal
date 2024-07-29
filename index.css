@@ -1,0 +1,7 @@
+.container{
+    max-width: 100%;
+    color: white;
+}
+.addShadow:hover{
+    box-shadow: -4px 5px 4px 6px hsl(271, 28%, 58%);
+}
